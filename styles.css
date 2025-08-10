@@ -1,0 +1,7 @@
+.tile{ background:#fff;border-radius:6px;padding:14px;box-shadow:0 1px 3px rgba(0,0,0,0.08);}
+.tile .title{ font-size:0.9rem;color:#666 }
+.tile .value{ font-size:1.8rem;font-weight:600 }
+.tile.green{ border-left:6px solid #28a745 }
+.tile.yellow{ border-left:6px solid #ffc107 }
+.tile.red{ border-left:6px solid #dc3545 }
+body{ background:#f7f8fa }

@@ -1,0 +1,14 @@
+{
+  "deliveries": [
+    { "deliveryId": "D001", "itemId": "I001", "warehouse": "WH1", "pickStatus": "PLANNED", "taskStatus": "READY", "plannedGI": "2025-08-08T09:00:00Z", "actualGI": null, "netWeight": 12.5, "volume": 0.15, "stagingArea": "S001", "creationDate": "2025-08-08T07:00:00Z" },
+    { "deliveryId": "D002", "itemId": "I002", "warehouse": "WH1", "pickStatus": "CONFIRMED", "taskStatus": "CONF_INPROG", "plannedGI": "2025-08-08T08:00:00Z", "actualGI": "2025-08-08T08:05:00Z", "netWeight": 5.0, "volume": 0.03, "stagingArea": "S001", "creationDate": "2025-08-07T23:00:00Z" },
+    { "deliveryId": "D003", "itemId": "I003", "warehouse": "WH2", "pickStatus": "PLANNED", "taskStatus": "READY", "plannedGI": "2025-08-08T10:30:00Z", "actualGI": null, "netWeight": 20.0, "volume": 0.5, "stagingArea": null, "creationDate": "2025-08-08T06:00:00Z" },
+    { "deliveryId": "D004", "itemId": "I004", "warehouse": "WH1", "pickStatus": "PLANNED", "taskStatus": "READY", "plannedGI": "2025-08-07T12:00:00Z", "actualGI": null, "netWeight": 7.0, "volume": 0.08, "stagingArea": "S002", "creationDate": "2025-08-06T10:00:00Z" },
+    { "deliveryId": "D005", "itemId": "I005", "warehouse": "WH2", "pickStatus": "PICKED", "taskStatus": "COMPLETED", "plannedGI": "2025-08-05T09:00:00Z", "actualGI": "2025-08-05T09:10:00Z", "netWeight": 3.5, "volume": 0.02, "stagingArea": "S003", "creationDate": "2025-08-03T08:00:00Z" },
+    { "deliveryId": "D006", "itemId": "I006", "warehouse": "WH1", "pickStatus": "PLANNED", "taskStatus": "READY", "plannedGI": "2025-08-08T14:00:00Z", "actualGI": null, "netWeight": 9.2, "volume": 0.11, "stagingArea": "S001", "creationDate": "2025-08-08T02:00:00Z" },
+    { "deliveryId": "D007", "itemId": "I007", "warehouse": "WH3", "pickStatus": "PLANNED", "taskStatus": "INPROG", "plannedGI": "2025-08-08T07:30:00Z", "actualGI": null, "netWeight": 15.4, "volume": 0.23, "stagingArea": "S004", "creationDate": "2025-08-08T01:00:00Z" },
+    { "deliveryId": "D008", "itemId": "I008", "warehouse": "WH2", "pickStatus": "PICKED", "taskStatus": "CONFIRMED", "plannedGI": "2025-08-06T10:00:00Z", "actualGI": "2025-08-06T10:30:00Z", "netWeight": 2.1, "volume": 0.01, "stagingArea": null, "creationDate": "2025-08-05T12:00:00Z" },
+    { "deliveryId": "D009", "itemId": "I009", "warehouse": "WH3", "pickStatus": "PLANNED", "taskStatus": "READY", "plannedGI": "2025-07-31T09:00:00Z", "actualGI": null, "netWeight": 4.0, "volume": 0.04, "stagingArea": "S005", "creationDate": "2025-07-30T09:00:00Z" },
+    { "deliveryId": "D010", "itemId": "I010", "warehouse": "WH1", "pickStatus": "PLANNED", "taskStatus": "READY", "plannedGI": "2025-08-08T05:00:00Z", "actualGI": null, "netWeight": 30.0, "volume": 0.6, "stagingArea": "S001", "creationDate": "2025-08-07T22:00:00Z" }
+  ]
+}
